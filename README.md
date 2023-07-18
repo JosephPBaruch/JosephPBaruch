@@ -8,6 +8,7 @@
 - JavaScript (Node, Express)
 - HTML
 - CSS
+- C
   
 ## Experience
 - C++
