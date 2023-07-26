@@ -9,6 +9,8 @@
 - HTML
 - CSS
 - C
+- Docker
+- AWS
   
 ## Experience
 - C++
