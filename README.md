@@ -5,13 +5,13 @@
 - web_data_app: https://github.com/JosephPBaruch/data_web_app
 
 ## Current Learning
-- JavaScript (Node, Express)
-- HTML
-- CSS
-- C
+- AWS (ECR, ECS, EC2)
 - Docker
-- AWS
-  
+- C
+- Python
+
 ## Experience
 - C++
 - Git
+- JavaScript (Node, Express)
+- HTML/CSS
