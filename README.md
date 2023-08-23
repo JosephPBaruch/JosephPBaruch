@@ -2,16 +2,17 @@
 > I am a Bachelor's of Computer Science student at the University of Idaho who is diving into web development.
 
 ## Active Projects
+- python_ml: https://github.com/JosephPBaruch/python_ml
 - web_data_app: https://github.com/JosephPBaruch/data_web_app
 
-## Current Learning
-- AWS (ECR, ECS, EC2)
-- Docker
+## Currently Learning
 - C
-- Python
+- Python (Panda, Scikit-learn)
+- AWS (ECR, ECS, EC2)
 
 ## Experience
 - C++
 - Git
 - JavaScript (Node, Express)
 - HTML/CSS
+- Docker
