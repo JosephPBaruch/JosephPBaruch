@@ -1,14 +1,14 @@
 # Joseph Baruch
 > I am a Bachelor's of Computer Science student at the University of Idaho who is diving into web development.
 
-## Active Projects
+<!--- ## Active Projects
 - python_ml: https://github.com/JosephPBaruch/python_ml
 - web_data_app: https://github.com/JosephPBaruch/data_web_app
-
+--->
 ## Currently Learning
 - C
-- Python (Panda, Scikit-learn)
-- AWS (ECR, ECS, EC2)
+- GoogleTests
+- Python
 
 ## Experience
 - C++
