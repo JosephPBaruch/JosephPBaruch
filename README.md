@@ -9,7 +9,7 @@
 --->
 ## Currently Learning
 - C
-- vi
+- unix
 - GoogleTests
 - Python
 
