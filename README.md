@@ -10,7 +10,6 @@
 ## Currently Learning
 - C
 - unix
-- GoogleTests
 - Python
 
 ## Experience
