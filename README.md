@@ -9,6 +9,7 @@ who is diving into web development.
 - web_data_app: https://github.com/JosephPBaruch/data_web_app
 --->
 ## Currently Learning
+- React
 - C
 - unix
 - Python
