@@ -13,6 +13,7 @@ who is diving into web development.
 - C
 - unix
 - Python
+- Go
 
 ## Experience
 - C++
