@@ -2,6 +2,7 @@
 > I am a Bachelor's of Computer Science student at the University of Idaho. 
 ## Currently Learning
 - Python (TensorFlow, Scikit)
+- Cypress
 - Go
 
 ## Experience
