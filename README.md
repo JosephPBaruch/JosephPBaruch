@@ -4,6 +4,7 @@
 - Python (TensorFlow, Scikit)
 - Cypress
 - Go
+- Docker
 
 ## Experience
 - C++, C
@@ -11,5 +12,4 @@
 - JavaScript (Node, Express, React)
 - Python (Pandas, MatPlotLib, YOLOv8)
 - HTML/CSS
-- Docker
 - Unix
