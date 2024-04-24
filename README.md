@@ -5,6 +5,7 @@
 - Helm
 - Docker
 - Yocto/Bitbake
+- Django
 
 ## Experience
 - C++, C
