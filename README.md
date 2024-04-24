@@ -1,10 +1,10 @@
 # Joseph Baruch
 > I am a Bachelor's of Computer Science student at the University of Idaho. 
 ## Currently Learning
-- Python
-- Go
+- Kubernetes
+- Helm
 - Docker
-- Bitbake
+- Yocto/Bitbake
 
 ## Experience
 - C++, C
