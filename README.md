@@ -1,7 +1,7 @@
 # Joseph Baruch
 > I am a Bachelor's of Computer Science student at the University of Idaho. 
 ## Currently Learning
-- Kubernetes
+- Kubernetes (k3d/k3s)
 - Helm
 - Docker
 - Yocto/Bitbake
