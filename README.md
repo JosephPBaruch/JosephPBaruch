@@ -1,11 +1,8 @@
 # Joseph Baruch
 > I am a Bachelor's of Computer Science student at the University of Idaho. 
 ## Currently Learning
-- Kubernetes (k3d/k3s)
-- Helm
-- Docker
-- Yocto/Bitbake
-- Django
+- Unity
+- Typescript + React
 
 ## Experience
 - C++, C
@@ -15,3 +12,7 @@
 - Go
 - HTML/CSS
 - Unix
+- Kubernetes (k3d/k3s)
+- Helm
+- Docker
+- Yocto/Bitbake
