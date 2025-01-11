@@ -1,12 +1,15 @@
 # Joseph Baruch
 > I am a Bachelor's of Computer Science student at the University of Idaho. 
 ## Currently Learning
-- Unity
-- Typescript + React
+- Python (Pandas, SciKit)
+- Go (Continuing)
+- Kubernetes (Continuing) 
 
 ## Experience
-- C++, C
+- C++, C, C#
 - Git
+- Unity
+- Typescript + React
 - JavaScript (Node, Express, React)
 - Python (Pandas, MatPlotLib, YOLOv8)
 - Go
