@@ -1,9 +1,10 @@
 # Joseph Baruch
 > I am a Bachelor's of Computer Science student at the University of Idaho. 
 ## Currently Learning
-- Python (Pandas, SciKit)
+- Python (Django, Pandas, SciKit)
 - Go (Continuing)
-- Kubernetes (Continuing) 
+- Kubernetes (Continuing)
+- Database Systems
 
 ## Experience
 - C++, C, C#
