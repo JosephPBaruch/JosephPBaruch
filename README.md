@@ -22,3 +22,6 @@
 - Helm
 - Docker
 - Yocto/Bitbake
+
+## Future Projects Ideas
+- Create a cluster of bots to try and overload home server. Try running in resource limited container. Eventually, practice on a cluster with load balances to scale the application for more users then intended.
