@@ -1,27 +1,21 @@
 # Joseph Baruch
-> I am a Bachelor's of Computer Science student at the University of Idaho. 
+
+> I am a Bachelor's of Computer Science student at the University of Idaho and Software Engineer Intern at Schweitzer Engineering Laboratories. 
+
+---
+
 ## Currently Learning
-- Time and Project Management
-- Python (Django, Pandas, SciKit)
-- Go (Continuing)
-- Kubernetes (Continuing)
-- Database Systems
-- Home Labbing
+- Data Science and Deep Learning with Python
+- Project Management
+- SNMP
 
 ## Experience
-- C++, C, C#
-- Git
-- Unity
-- Typescript + React
-- JavaScript (Node, Express, React)
-- Python (Pandas, MatPlotLib, YOLOv8)
+- C++, C
 - Go
-- HTML/CSS
-- Unix
+- Typescript (React)
+- JavaScript (Node, Express, React)
+- Python: Application Developement (Fast API, Django)
+- Python: Data Science (ScikitLearn, Keras, TensorFlow)
 - Kubernetes (k3d/k3s)
 - Helm
 - Docker
-- Yocto/Bitbake
-
-## Future Projects Ideas
-- Create a cluster of bots to try and overload home server. Try running in resource limited container. Eventually, practice on a cluster with load balances to scale the application for more users then intended.
