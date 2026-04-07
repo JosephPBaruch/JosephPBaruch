@@ -1,6 +1,6 @@
 # Joseph Baruch
 
-> I am a Bachelor's of Computer Science student at the University of Idaho and Software Engineer Intern at Schweitzer Engineering Laboratories. 
+> I am a Bachelor's of Computer Science student at the University of Idaho and Associate Software Engineer at Schweitzer Engineering Laboratories. 
 
 ---
 
